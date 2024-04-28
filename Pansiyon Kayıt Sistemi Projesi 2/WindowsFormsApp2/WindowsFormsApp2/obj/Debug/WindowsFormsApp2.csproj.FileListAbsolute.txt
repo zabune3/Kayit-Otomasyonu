@@ -1,0 +1,13 @@
+D:\Pansiyon Kayıt Sistemi Projesi 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\Pansiyon Kayıt Sistemi Projesi 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\Pansiyon Kayıt Sistemi Projesi 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\Pansiyon Kayıt Sistemi Projesi 2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\Pansiyon Kayıt Sistemi Projesi 2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\Pansiyon Kayıt Sistemi Projesi 2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\Pansiyon Kayıt Sistemi Projesi 2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\Pansiyon Kayıt Sistemi Projesi 2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\Pansiyon Kayıt Sistemi Projesi 2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\Pansiyon Kayıt Sistemi Projesi 2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FrmAnaForm.resources
+D:\Pansiyon Kayıt Sistemi Projesi 2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FrmMusteriEkle.resources
+D:\Pansiyon Kayıt Sistemi Projesi 2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FrmOdalar.resources
+D:\Pansiyon Kayıt Sistemi Projesi 2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FrmAdminGiris.resources
